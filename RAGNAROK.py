@@ -21,8 +21,8 @@ REQUIRED_CHANNELS = [
 ]
 
 # Default cooldown and attack limits
-COOLDOWN_TIME = 300  # Cooldown in seconds
-ATTACK_LIMIT = 10  # Max attacks per day
+COOLDOWN_TIME = 500  # Cooldown in seconds
+ATTACK_LIMIT = 3  # Max attacks per day
 
 # Files to store user data
 USER_FILE = "users.txt"
